@@ -1,0 +1,402 @@
+<resources>
+    <string name="app_name">Ilocano Text to Text Translator</string>
+
+    <!-- General Greeting Words -->
+    <string-array name="greetings_general_english">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Do you understand?</item>
+        <item>I understand</item>
+        <item>Thank you</item>
+        <item>Please</item>
+        <item>Sorry</item>
+        <item>I’m sorry</item>
+        <item>Please say that again</item>
+        <item>Can you speak slowly?</item>
+        <item>I’m good</item>
+        <item>I don’t know</item>
+        <item>You’re welcome.</item>
+        <item>That’s right</item>
+        <item>No problem</item>
+        <item>Who?</item>
+        <item>What?</item>
+        <item>How many?</item>
+        <item>How much?</item>
+        <item>Why?</item>
+        <item>Which?</item>
+        <item>Where?</item>
+        <item>When?</item>
+    </string-array>
+    <string-array name="greetings_general_ilocano">
+        <item>Wen</item>
+        <item>Saan</item>
+        <item>Naawatam</item>
+        <item>Naawatak</item>
+        <item>Agyamanak</item>
+        <item>Pangngaasim</item>
+        <item>Pakawanen</item>
+        <item>Pakawanen nak</item>
+        <item>Ulitem man ti imbagam</item>
+        <item>Ibaybayag mo man ti agsao</item>
+        <item>Nasayaat nak met</item>
+        <item>Diak ammo</item>
+        <item>Awan ti aniaman na.</item>
+        <item>Usto</item>
+        <item>Awan ti problema</item>
+        <item>Sia-sino?</item>
+        <item>Ana?</item>
+        <item>Mano?</item>
+        <item>Sagmamano?</item>
+        <item>Apay?</item>
+        <item>Ania kadagitoy?</item>
+        <item>Sadinno?</item>
+        <item>Kaano?</item>
+    </string-array>
+
+    <!-- Complimentary Phrases -->
+    <string-array name="compliments_english">
+        <item>You’re so fast.</item>
+        <item>Your voice is beautiful.</item>
+        <item>You’re smart</item>
+        <item>You’re strong.</item>
+        <item>You’re diligent</item>
+        <item>That color is perfect on you.</item>
+        <item>I like your hair.</item>
+        <item>I appreciate you.</item>
+        <item>You look beautiful.</item>
+        <item>You look handsome.</item>
+        <item>You’re polite.</item>
+        <item>You won.</item>
+        <item>Good</item>
+        <item>Bad</item>
+        <item>Slow</item>
+        <item>Fast</item>
+        <item>Happy</item>
+
+    </string-array>
+    <string-array name="compliments_ilocano">
+        <item>Napaspas ka</item>
+        <item>Ti boses mo ket napintas</item>
+        <item>Naglaing ka</item>
+        <item>Nagpisgsa ka</item>
+        <item>Nagaget ka</item>
+        <item>Dayta a maris ket perpekto kenka</item>
+        <item>Magustwak dayta buok mo.</item>
+        <item>Apresyaren ka</item>
+        <item>Napintas ka</item>
+        <item>Nagtaraki ka</item>
+        <item>Nadayaw ka</item>
+        <item>Nangabak ka</item>
+        <item>Nasayaat</item>
+        <item>Dakes</item>
+        <item>Nabayag</item>
+        <item>Alisto</item>
+        <item>Naragsak</item>
+    </string-array>
+
+    <!-- Basic Greetings -->
+    <string-array name="basic_greetings_english">
+        <item>Good morning</item>
+        <item>Good afternoon</item>
+        <item>Good evening</item>
+        <item>Hello</item>
+        <item>Welcome</item>
+        <item>Take care</item>
+        <item>Merry Christmas</item>
+        <item>Happy Birthday</item>
+        <item>Farewell</item>
+        <item>See you tomorrow!</item>
+        <item>See you!</item>
+        <item>Hello friend</item>
+        <item>Hello friends</item>
+    </string-array>
+    <string-array name="basic_greetings_ilocano">
+        <item>Naimbag a bigat</item>
+        <item>Naimbag a malem</item>
+        <item>Naimbag a rabii</item>
+        <item>Kablaaw</item>
+        <item>Naragsak nga isasangpet</item>
+        <item>Agannad ka</item>
+        <item>Naragsa a paskua</item>
+        <item>Naragsak a panagkasangay</item>
+        <item>Pakada</item>
+        <item>Agkita ta nu bigat</item>
+        <item>Agkita tantu</item>
+        <item>Kablaaw gayyem</item>
+        <item>Kablaaw ga-gayyem</item>
+    </string-array>
+
+
+    <!-- Things -->
+    <string-array name="things_english">
+        <item>Chair</item>
+        <item>Table</item>
+        <item>Book</item>
+        <item>Pen</item>
+        <item>Window</item>
+        <item>Door</item>
+        <item>Bag</item>
+        <item>Phone</item>
+        <item>Television</item>
+        <item>Shoe</item>
+        <item>Hat</item>
+        <item>Water</item>
+        <item>Food</item>
+    </string-array>
+    <string-array name="things_ilocano">
+        <item>Tugaw</item>
+        <item>Lamesaan</item>
+        <item>Libro</item>
+        <item>Pluma</item>
+        <item>Tawa</item>
+        <item>Ridaw</item>
+        <item>Bag</item>
+        <item>Telepono</item>
+        <item>Telebision</item>
+        <item>Sapatos</item>
+        <item>Sumbrero</item>
+        <item>Danum</item>
+        <item>Makan</item>
+    </string-array>
+
+    <!-- Phrases for Dining -->
+    <string-array name="dining_english">
+        <item>What is your favorite food?</item>
+        <item>I am hungry</item>
+        <item>Would you like some?</item>
+        <item>This is delicious</item>
+        <item>Can I have some water?</item>
+        <item>How much is this?</item>
+        <item>I am full</item>
+        <item>Where can I buy food?</item>
+    </string-array>
+    <string-array name="dining_ilocano">
+        <item>Ana iti paborito nga makan mo?</item>
+        <item>Mabisin nak</item>
+        <item>Kayat mo pay</item>
+        <item>Naimas daytoy</item>
+        <item>Mabalin iyalaan nak ti danum</item>
+        <item>Sagmamano daytoy?</item>
+        <item>Nabusogak</item>
+        <item>Sadino ti mabalin nga makagatang ti makan?</item>
+    </string-array>
+
+    <!-- Emergency Phrases -->
+    <string-array name="emergency_english">
+        <item>Help</item>
+        <item>I need a doctor</item>
+        <item>Call the police</item>
+        <item>Where is the hospital?</item>
+        <item>I’m lost</item>
+        <item>I’m hurt</item>
+        <item>Can you help me?</item>
+        <item>I need to call my family.</item>
+    </string-array>
+    <string-array name="emergency_ilocano">
+        <item>Tulong</item>
+        <item>Masapul ko ti doktor</item>
+        <item>Awagan yo ti pulis</item>
+        <item>Sadinno ti ospital?</item>
+        <item>Napukaw nak</item>
+        <item>Nasugatan nak</item>
+        <item>Mabalin ba nga tulungan nak?</item>
+        <item>Masapul ko nga awagan ti pamilya ko</item>
+    </string-array>
+
+    <!-- Directions -->
+    <string-array name="directions_english">
+        <item>Where is the bathroom?</item>
+        <item>How do I get to the market?</item>
+        <item>Is it far from here?</item>
+        <item>Turn left.</item>
+        <item>Turn right.</item>
+        <item>Go straight.</item>
+        <item>Stop here.</item>
+        <item>I am looking for...</item>
+    </string-array>
+    <string-array name="directions_ilocano">
+        <item>Sadinno ti banyo</item>
+        <item>Kasanuno nga makapan nak idiay merkado?</item>
+        <item>Adayo kadi ditoy</item>
+        <item>Agpakannigid ka</item>
+        <item>Agpakannawan ka</item>
+        <item>Agderetso</item>
+        <item>Agsardeng ditoy</item>
+        <item>Agsarsarak nak iti...</item>
+    </string-array>
+
+    <!-- Common Greetings -->
+    <string-array name="greetings_english">
+        <item>Hello</item>
+        <item>Good morning</item>
+        <item>Good afternoon</item>
+        <item>Good evening</item>
+        <item>How are you?</item>
+        <item>Nice to meet you.</item>
+        <item>Goodbye</item>
+    </string-array>
+    <string-array name="greetings_ilocano">
+        <item>Kablaaw</item>
+        <item>Naimbag a bigat</item>
+        <item>Naimbag a malem</item>
+        <item>Naimbag a rabii</item>
+        <item>Kumusta ka?</item>
+        <item>Naragsakak a makaam-ammo ka</item>
+        <item>Agpakadan</item>
+    </string-array>
+
+    <!-- Weather and Nature -->
+    <string-array name="weather_english">
+        <item>Sun</item>
+        <item>Moon</item>
+        <item>Air</item>
+        <item>Fire</item>
+        <item>Water</item>
+        <item>It’s sunny.</item>
+        <item>It’s raining.</item>
+        <item>It’s windy.</item>
+        <item>It’s hot today.</item>
+        <item>It’s cold today.</item>
+        <item>Is there a storm coming?</item>
+        <item>The sky is clear.</item>
+    </string-array>
+    <string-array name="weather_ilocano">
+        <item>Init</item>
+        <item>Bulan</item>
+        <item>Angin</item>
+        <item>Apoy</item>
+        <item>Danum</item>
+        <item>Naranyag ti init</item>
+        <item>Agtudtudo</item>
+        <item>Naangin</item>
+        <item>Napudot ita nga aldaw</item>
+        <item>Nalamiis ita nga aldaw</item>
+        <item>Adda bagyo nga umay?</item>
+        <item>Natalna ti langit</item>
+    </string-array>
+
+    <!-- Family -->
+    <string-array name="family_english">
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Brother</item>
+        <item>Sister</item>
+        <item>Grandfather</item>
+        <item>Grandmother</item>
+        <item>Uncle</item>
+        <item>Aunt</item>
+        <item>Cousin</item>
+        <item>Child</item>
+        <item>Friend</item>
+    </string-array>
+    <string-array name="family_ilocano">
+        <item>Tatang</item>
+        <item>Nanang</item>
+        <item>Kabsat</item>
+        <item>Kabsat</item>
+        <item>Lolo</item>
+        <item>Lola</item>
+        <item>Angkal</item>
+        <item>Anti</item>
+        <item>Kasinsin</item>
+        <item>Ubing</item>
+        <item>Gayyem</item>
+    </string-array>
+
+    <!-- Numbers -->
+    <string-array name="numbers_english">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+    </string-array>
+    <string-array name="numbers_ilocano">
+        <item>Maysa</item>
+        <item>Dua</item>
+        <item>Tallo</item>
+        <item>Upat</item>
+        <item>Lima</item>
+        <item>Inneng</item>
+        <item>Pito</item>
+        <item>Walo</item>
+        <item>Siyam</item>
+        <item>Sangapulo</item>
+    </string-array>
+
+    <!-- Days of the Week -->
+    <string-array name="days_english">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string-array name="days_ilocano">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miyerkules</item>
+        <item>Huwebes</item>
+        <item>Byernes</item>
+        <item>Sabat</item>
+        <item>Domingo</item>
+    </string-array>
+
+    <!-- Pronouns -->
+    <string-array name="pronoun_english">
+        <item>You</item>
+        <item>I</item>
+        <item>He</item>
+        <item>She</item>
+        <item>It</item>
+        <item>We</item>
+        <item>They</item>
+        <item>Them</item>
+        <item>I am</item>
+        <item>I’m</item>
+        <item>You are</item>
+        <item>You’re</item>
+    </string-array>
+    <string-array name="pronoun_ilocano">
+        <item>Sika</item>
+        <item>Siyak</item>
+        <item>Isuna</item>
+        <item>Isuna</item>
+        <item>Daytoy</item>
+        <item>Sikami</item>
+        <item>Isuda</item>
+        <item>Isuda</item>
+        <item>Siyak ni</item>
+        <item>Siyak ni</item>
+        <item>Sika ni</item>
+        <item>Sika ni</item>
+
+    </string-array>
+
+    <!-- Conjuction -->
+    <string-array name="conj_english">
+        <item>For</item>
+        <item>And</item>
+        <item>Nor</item>
+        <item>But</item>
+        <item>Or</item>
+        <item>Yet</item>
+        <item>So</item>
+    </string-array>
+    <string-array name="conj_ilocano">
+        <item>Para</item>
+        <item>Ken</item>
+        <item>Wenno</item>
+        <item>Ngem</item>
+        <item>Wenno</item>
+        <item>Pay</item>
+        <item>Isu nga</item>
+    </string-array>
+</resources>

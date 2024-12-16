@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main Theme -->
+    <style name="Theme.IlocanoTexttoTextTranslator" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- SplashScreen Theme -->
+    <style name="Theme.IlocanoTexttoTextTranslator.SplashScreen" parent="Theme.IlocanoTexttoTextTranslator">
+        <item name="android:windowSplashScreenBackground">@color/bg</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/logo</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@android:color/white</item>
+    </style>
+
+</resources>
